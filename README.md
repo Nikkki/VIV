@@ -1,4 +1,4 @@
-# wave
+# VIV
 
 > A Vue.js project
 
