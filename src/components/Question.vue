@@ -1,16 +1,16 @@
 <template>
-  <section>
+  <section >
     <v-card class="py-3 px-3" v-if="question">
-          <h1 class="text-sm-left">
+          <h1 class="text-sm-left question">
             {{question.numb}}. {{question.question}}
         </h1>
-        <h1 class=" pl-2 pt-2 text-sm-left">
+        <h2 class="answer pl-2 pt-2 text-sm-left">
           {{question.answer}}
-        </h1>
+        </h2>
         <ol class="text-sm-left pl-2 " v-for="(sup, index) in question.sups">
           {{index}}
-          <li  v-for="link in sup"> 
-            <a target="_blank" :href=link.link>{{link.text}} </a>
+          <li class="card-link" v-for="link in sup"> 
+            <a  target="_blank" :href=link.link>{{link.text}} </a>
           </li>
         </ol>
     </v-card>
@@ -73,7 +73,21 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+.question {
+  font-weight: bold;
+ 
+}
 
+.answer{
+   margin-bottom: 7px;
+}
+
+.card-link {
+  margin: 4px;
+}
+.card-link a {
+  padding: 5px;
+}
 </style>
 

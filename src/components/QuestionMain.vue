@@ -12,7 +12,7 @@
           {{question.answer}}
         </p>
         <ol class="text-sm-left pl-2 " v-for="(sup, index) in question.sups">
-          {{index}}<li  v-for="link in sup"> 
+          {{index}}<li class="card-link" v-for="link in sup"> 
             <a target="_blank" :href=link.link>{{link.text}} </a>
           </li>
         </ol>
@@ -48,7 +48,12 @@ export default {
 };
 </script>
 
-<style>
-
+<style scoped>
+.card-link {
+  margin: 5px;
+}
+.card-link a {
+  padding: 6px;
+}
 </style>
 
