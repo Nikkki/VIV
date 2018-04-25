@@ -56,18 +56,27 @@ export default {
     }),
 
     isNextQuestion() {
-      let index = this.questions.map(el => el.numb).indexOf(+this.numb + 1);
+      let index = this.getArrayOfNumbersOfQuestion.indexOf(+this.numb + 1);
       return index === -1;
     },
     isBackQuestion() {
-      let index = this.questions.map(el => el.numb).indexOf(+this.numb - 1);
+      let index = this.getArrayOfNumbersOfQuestion.indexOf(+this.numb - 1);
       return index === -1;
     },
 
     question() {
-      let index = this.questions.map(el => el.numb).indexOf(+this.numb);
+      let index = this.getArrayOfNumbersOfQuestion.indexOf(+this.numb);
       if (index !== -1) return this.questions[index];
       return null;
+    },
+
+    getArrayOfNumbersOfQuestion() {
+      return this.questions.map(el => {
+        if (typeof el.numb === "string") {
+          el.numb = parseInt(el.numb, 10);
+        }
+        return el.numb;
+      });
     }
   }
 };
@@ -76,11 +85,10 @@ export default {
 <style scoped>
 .question {
   font-weight: bold;
- 
 }
 
-.answer{
-   margin-bottom: 7px;
+.answer {
+  margin-bottom: 7px;
 }
 
 .card-link {
