@@ -637,31 +637,31 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
           "text": "2 Тим. 1:9",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/2ti/1#9"
         },
         {
           "text": "2 Фес. 2:13-14",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/2th/2#13"
         }
       ],
       "2": [{
         "text": "Деян. 2:37 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ac/2#37"
       }],
       "3": [{
         "text": "Деян. 26:18 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ac/26#18"
       }],
       "4": [{
         "text": "Иез. 36:26-27",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/eze/36#26"
       }],
       "5": [{
         "text": "Ин. 6:44-45",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/joh/6#44"
       }, {
         "text": "Фил. 2:13",
-        "link": ""
+          "link": "http://allbible.info/bible/modern/php/2#13"
       }]
     }
   }, {
@@ -671,15 +671,15 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "Рим. 8:30 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ro/8#30"
       }],
       "2": [{
         "text": "Еф. 1:5 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/eph/1#15"
       }],
       "3": [{
         "text": "1 Кор. 1:26,30 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/1co/1#26"
       }]
     }
   }, {
@@ -689,28 +689,28 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
           "text": "Рим. 3:24-25",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/ro/3#24"
         },
         {
           "text": "Рим. 4:6-8 ",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/ro/4#6"
         }
       ],
       "2": [{
         "text": "2 Кор. 5:19,21 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/2co/5#19"
       }],
       "3": [{
         "text": "Рим. 5:17-19 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ro/5#17"
       }],
       "4": [{
           "text": "Гал. 2:16",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/ga/2#16"
         },
         {
           "text": "Фил. 3:9",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/php/3#9"
         }
       ]
     }
@@ -721,15 +721,15 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "1 Ин. 3:1 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/1jo/3#1"
       }],
       "2": [{
           "text": "Ин. 1:12",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/joh/1#12"
         },
         {
           "text": "Рим. 8:17 ",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/ro/8#17"
         }
       ]
     }
@@ -740,19 +740,19 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "2 Фес. 2:13 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/2th/2#13"
       }],
       "2": [{
         "text": "Еф. 4:23-24 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/eph/4#23"
       }],
       "3": [{
           "text": "Рим. 6:4,6",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/ro/6#4"
         },
         {
           "text": "Рим. 8:1",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/ro/8#1"
         }
       ]
     }
@@ -763,23 +763,23 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "Рим. 5:1-2,5",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ro/5#1"
       }],
       "2": [{
         "text": "Рим. 14:17",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ro/14#17"
       }],
       "3": [{
         "text": "Притч. 4:18",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/pr/4#18"
       }],
       "4": [{
           "text": "1 Ин. 5:13",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/1jo/5#13"
         },
         {
           "text": "1 Петр. 1:5",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/1pe/1#5"
         }
       ]
     }
