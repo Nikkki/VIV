@@ -790,32 +790,32 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "Евр. 12:23 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/heb/12#23"
       }],
       "2": [{
           "text": "2 Кор. 5:1,6,8",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/2co/5#1"
         },
         {
           "text": "Фил. 1:23",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/php/1#23"
         },
         {
           "text": "Лк. 23:43 ",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/lu/23#43"
         }
       ],
       "3": [{
         "text": "1 Фес. 4:14 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/1th/4#14"
       }],
       "4": [{
         "text": "Ис. 57:2 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/isa/57#2"
       }],
       "5": [{
         "text": "Иов 19:26-27 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/job/19#26-27"
       }]
     }
   }, {
@@ -825,29 +825,29 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "1 Кор. 15:43 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/1co/15#43"
       }],
       "2": [{
           "text": "Мф. 25:23",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/mt/25#23"
         },
         {
           "text": "Мф. 10:32 ",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/mt/10#32"
         }
       ],
       "3": [{
           "text": "1 Ин. 3:2",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/1jo/3#2"
         },
         {
           "text": "1 Кор. 13:12 ",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/1co/13#12"
         }
       ],
       "4": [{
         "text": "1 Фес. 4:17-18 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/1th/4#17-18"
       }]
     }
   }, {
@@ -857,11 +857,11 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
           "text": "Мих. 6:8",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/mic/6#8"
         },
         {
           "text": "1 Цар. 15:22 ",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/1ki/15#22"
         }
       ]
     }
@@ -872,11 +872,11 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
           "text": "Рим. 2:14-15",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/ro/2#14-15"
         },
         {
           "text": "Рим. 10:5",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/ro/10#5"
         }
       ]
     }
@@ -887,7 +887,7 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "Втор. 10:4 Мф. 19:17 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/de/10#4"
       }]
     }
   }, {
@@ -897,7 +897,7 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "Мф. 22:37-40",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/mt/22#37-40"
       }]
     }
   }, {
@@ -907,7 +907,7 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "Исх. 20:2",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ex/20#2"
       }]
     }
   }, {
@@ -917,11 +917,11 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
           "text": "Лк. 1:74-75",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/lu/1#74-75"
         },
         {
           "text": "1 Петр. 1:15-19",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/1pe/1#15-19"
         }
       ]
     }
@@ -932,7 +932,7 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "Исх. 20:3",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ex/20#3"
       }]
     }
   }, {
@@ -942,20 +942,20 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
           "text": "1 Пар. 28:9",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/1ch/28#9"
         },
         {
           "text": "Втор. 26:17",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/de/26#17"
         }
       ],
       "2": [{
           "text": "Мф. 4:10",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/mt/4#10"
         },
         {
           "text": "Пс. 28:2",
-          "link": ""
+          "link": "http://allbible.info/bible/modern/ps/28#2"
         }
       ]
     }
@@ -966,19 +966,19 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
         "text": "Пс. 13:1 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ps/13#1"
       }],
       "2": [{
         "text": "Рим. 1:21 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ro/1#21"
       }],
       "3": [{
         "text": "Пс. 80:11-12 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ps/80#11-12"
       }],
       "4": [{
         "text": "Рим. 1:25-26 ",
-        "link": ""
+        "link": "http://allbible.info/bible/modern/ro/1#25-26"
       }]
     }
   }, {
@@ -988,7 +988,7 @@ export let questionsJSON = [{
     "sups": {
       "1": [{
           "text": "Иез. 8:5-6",
-          "link": ""
+        "link": "http://allbible.info/bible/modern/eze/8#5-6"
         },
         {
           "text": "Пс. 42:21-22 ",
